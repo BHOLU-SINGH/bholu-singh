@@ -1,10 +1,12 @@
-Hi 👋 My name is Bholu Singh
+Hi 👋, I'm Bholu Singh
 ============================
 
-Web Developer and Designer
+a Web Developer and Web Designer
 --------------------------
 
-Sharing my everyday life as a senior web developer Junior Twitch streamer Always learning something new.
+ with over 2 years of experience. I'm passionate about creating beautiful and user-friendly web experiences. I'm proficient in a variety of programming languages and technologies, including HTML, CSS, JavaScript, React, PHP, and other programming languages and technologies. I am a highly motivated and results-oriented individual with a strong work ethic. I am also a team player and I am always willing to help others. I am passionate about creating beautiful and user-friendly web experiences.
+
+
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [bsdhaked786@gmail.com](mailto:bsdhaked786@gmail.com)
@@ -31,7 +33,7 @@ src="https://img.shields.io/github/followers/bholu-singh?logo=github&style=for-t
 
 ### Socials
 
-<p align="left"> <a href="https://www.facebook.com/ViewLiveProjects" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/bholu-singh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/bholu6378" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/bholusingh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@bholu-singh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/bholu7972" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.facebook.com/freeprojects1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/bholu-singh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/bholu6378" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/bholusingh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@bholu-singh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/bholu7972" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
