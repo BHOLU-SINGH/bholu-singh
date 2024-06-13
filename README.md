@@ -1,10 +1,10 @@
 Hi 👋, I'm Bholu Singh
 ============================
 
-a Web Developer and Web Designer
+a seasoned web developer and designer
 --------------------------
 
- with over 2 years of experience. I'm passionate about creating beautiful and user-friendly web experiences. I'm proficient in a variety of programming languages and technologies, including HTML, CSS, JavaScript, React, PHP, and other programming languages and technologies. I am a highly motivated and results-oriented individual with a strong work ethic. I am also a team player and I am always willing to help others. I am passionate about creating beautiful and user-friendly web experiences.
+with a passion for crafting captivating and user-centric web solutions. With extensive experience in a diverse range of technologies, including HTML, CSS, JavaScript, React.js, and Next.js, I bring creativity, innovation, and a results-driven approach to every project. I thrive in collaborative environments, where I can leverage my strong work ethic to support and uplift others. Let's work together to create exceptional and user-friendly web experiences that exceed expectations.
 
 
 
